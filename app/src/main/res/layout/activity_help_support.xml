@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#140909">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/help_support"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="16dp"
+        android:background="@drawable/header_bg"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvHelpContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#EEEEEE"
+            android:textSize="16sp"
+            android:lineSpacingExtra="4dp"
+            android:text="@string/help_support_full_text"/>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="16dp">
+
+        <Button
+            android:id="@+id/btnBackHelp"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="1"
+            android:text="@string/close"
+            android:backgroundTint="#B71C1C"
+            android:textColor="#FFFFFF"/>
+
+        <ImageButton
+            android:id="@+id/btnVoiceHelp"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="12dp"
+            android:src="@android:drawable/ic_btn_speak_now"
+            android:background="@drawable/dashboard_icon_btn"
+            android:contentDescription="@string/voice_command"
+            app:tint="#FFFFFF"
+            android:scaleType="centerInside"/>
+    </LinearLayout>
+
+</LinearLayout>

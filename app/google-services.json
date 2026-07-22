@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127140774613",
+    "project_id": "firedetectionsystem1-dacb8",
+    "storage_bucket": "firedetectionsystem1-dacb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127140774613:android:8095d374971227c1a9585c",
+        "android_client_info": {
+          "package_name": "com.example.firedetectionstystem1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASeDY5STlgHqE27mmwb0x2duESd3XA-5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Fire Detection System App</string>
+    <string name="fire_detection_system">🔥 MFUMO WA KUGUNDUA MOTO</string>
+    <string name="welcome_fire_detection">Karibu kwenye Mfumo wa Kugundua Moto</string>
+    <string name="stay_safe_secure">Kaa Salama na Lindwa</string>
+    <string name="enter_email">Weka barua pepe yako</string>
+    <string name="enter_password">Weka nenosiri</string>
+    <string name="login">INGIA</string>
+    <string name="forgot_password_q">Umesahau nenosiri?</string>
+    <string name="register_now">Jisajili Sasa</string>
+    <string name="choose_language">Chagua Lugha</string>
+    <string name="monitoring_fire_risk">Kufuatilia hatari ya moto kwa wakati halisi</string>
+    <string name="register_account">Sajili Akaunti</string>
+    <string name="enter_username_email">Weka jina/barua pepe</string>
+    <string name="register">SAJILI</string>
+    <string name="reset_password">Weka upya nenosiri</string>
+    <string name="registered_email">Barua pepe iliyosajiliwa</string>
+    <string name="new_password">Nenosiri jipya</string>
+    <string name="confirm_new_password">Thibitisha nenosiri jipya</string>
+    <string name="back_to_login">Rudi kuingia</string>
+    <string name="fire_alert_dashboard">🔥 DASHIBODI YA TAHADHARI YA MOTO</string>
+    <string name="no_fire_detected">✅ Hakuna moto uliogunduliwa</string>
+    <string name="fire_detected_sms">🔥 Moto umegunduliwa! SMS imetumwa</string>
+    <string name="result_monitoring">Matokeo: Inafuatilia vihisi...</string>
+    <string name="result_high_risk">Matokeo: Hatari kubwa imegunduliwa saa %1$s</string>
+    <string name="result_area_safe">Matokeo: Eneo ni salama (imesasishwa %1$s)</string>
+    <string name="real_time_alerts">Tahadhari za Wakati Halisi</string>
+    <string name="smoke_detection">Ugunduzi wa Moshi</string>
+    <string name="emergency_call">Simu ya Dharura</string>
+    <string name="ok">SAWA</string>
+    <string name="fire_detected_caps">MOTO UMEGUNDULIWA</string>
+    <string name="no_fire_detected_caps">HAKUNA MOTO UMEGUNDULIWA</string>
+    <string name="alert_status">Hali: %1$s</string>
+    <string name="alert_last_update">Sasisho la mwisho: %1$s</string>
+    <string name="alert_smoke_level">Kiwango cha moshi: %1$d%%</string>
+    <string name="severity_high">KUBWA</string>
+    <string name="severity_medium">WASTANI</string>
+    <string name="severity_low">CHINI</string>
+    <string name="alert_severity">Ukali: %1$s</string>
+    <string name="investigate_immediately">Chunguza mara moja.</string>
+    <string name="monitoring_normal">Ufuatiliaji ni wa kawaida.</string>
+    <string name="no_phone_app">Hakuna app ya simu kwenye kifaa hiki.</string>
+    <string name="invalid_email">Barua pepe si sahihi</string>
+    <string name="invalid_credentials">Taarifa si sahihi. Tafadhali jisajili kama ni mtumiaji mpya.</string>
+    <string name="email_already_registered">Barua pepe hii tayari imesajiliwa. Tafadhali ingia.</string>
+    <string name="registered_successfully">Umesajiliwa kwa mafanikio: %1$s</string>
+    <string name="password_rules">Tumia herufi kubwa, namba na alama</string>
+    <string name="passwords_not_match">Nenosiri halifanani</string>
+    <string name="email_not_found">Barua pepe haijapatikana. Tafadhali jisajili kwanza.</string>
+    <string name="password_reset_success">Nenosiri limewekwa upya kwa mafanikio</string>
+    <string name="enter_otp">Weka OTP</string>
+    <string name="verify_otp">Thibitisha OTP</string>
+    <string name="remember_me">Nikumbuke</string>
+    <string name="session_expired">Muda wa kikao umeisha. Tafadhali ingia tena.</string>
+    <string name="logout">Toka</string>
+    <string name="visibility_off">Ficha nenosiri</string>
+    <string name="visibility_on">Onyesha nenosiri</string>
+    <string name="open_menu">Fungua menyu</string>
+    <string name="settings">Mipangilio</string>
+    <string name="help_support">Msaada na Usaidizi</string>
+    <string name="apply">Tumia</string>
+    <string name="cancel">Ghairi</string>
+    <string name="lang_english">Kiingereza</string>
+    <string name="lang_swahili">Kiswahili</string>
+    <string name="reports">Ripoti</string>
+    <string name="view_reports">Angalia Ripoti</string>
+    <string name="download_pdf">PAKUA PDF</string>
+    <string name="view_history">Angalia Historia</string>
+    <string name="close">FUNGA</string>
+    <string name="report_ready">Ripoti imehifadhiwa kwenye folder la Downloads</string>
+    <string name="report_error">Imeshindikana kutengeneza ripoti</string>
+    <string name="loading_reports">Inapakia ripoti...</string>
+    <string name="no_incidents">Hakuna matukio ya moto yaliyorekodiwa.</string>
+    <string name="location_label">Mahali</string>
+    <string name="time_label">Muda</string>
+    <string name="select_option_report">Chagua chaguo hapo juu kupakia data ya ripoti.</string>
+    <string name="too_many_attempts">Umekosea mara nyingi mno. Tafadhali subiria dakika 3.</string>
+    <string name="lockout_active">App imefungwa. Jaribu tena baada ya sekunde %1$d.</string>
+    <string name="registration_failed">Usajili umeshindwa: %1$s</string>
+    <string name="password_updated">Nenosiri limesasishwa kwa mafanikio.</string>
+    <string name="zoom_in">Kuza</string>
+    <string name="zoom_out">Punguza</string>
+    <string name="voice_command">Amri ya Sauti</string>
+    <string name="listening">Nikisikiliza...</string>
+    <string name="voice_error">Utambuzi wa sauti haukubaliwi au hitilafu imetokea.</string>
+    <string name="command_not_recognized">Amri haijatambuliwa. Jaribu "Ripoti" au "Moshi".</string>
+
+    <string-array name="language_names">
+        <item>Kiingereza</item>
+        <item>Kiswahili</item>
+    </string-array>
+
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>sw</item>
+    </string-array>
+
+    <string name="help_support_full_text">Karibu kwenye Mfumo wa Ugunduzi wa Moto\n\nKaribu kwenye programu ya Mfumo wa Ugunduzi wa Moto. Programu hii inakusaidia kufuatilia viwango vya moshi, mwali wa moto, na joto kwa wakati halisi na hutoa arifa za papo hapo kila hatari ya moto inapogunduliwa.\n\nKuanza\n• Ingia kwa kutumia akaunti yako iliyosajiliwa.\n• Hakikisha kifaa chako kimeunganishwa kwenye intaneti.\n• Thibitisha kuwa kifaa cha kugundua moto kimewashwa na kimeunganishwa kwenye Firebase.\n• Baada ya muunganisho kufanikiwa, dashibodi itaonyesha data ya sensorer mubashara.\n\nDashibodi\nDashibodi huonyesha:\n• Kiwango cha sasa cha moshi\n• Usomaji wa joto\n• Hali ya ugunduzi wa mwali wa moto\n• Hali ya mfumo (Salama au Moto Umegunduliwa)\n• Muda wa kusasisha mara ya mwisho\n\nHali ya kijani inaonyesha mazingira ni salama, wakati hali nyekundu inamaanisha moto umegunduliwa.\n\nUfuatiliaji wa Wakati Halisi\nProgramu hupokea data mfululizo kutoka kwa kifaa cha kugundua moto. Usomaji wa sensorer husasishwa kiotomatiki bila kuhitaji kuonyesha upya kwa mkono.\n\nArifa\nWakati moshi, mwali wa moto, au joto linapozidi kiwango kilichowekwa:\n• Kengele huwashwa.\n• Arifa ya kushinikiza (push notification) hutumwa kwa kifaa chako cha mkononi.\n• Arifa ya SMS hutumwa ikiwa arifa za SMS zimewezeshwa.\n• Hali ya dashibodi hubadilika kuwa Moto Umegunduliwa.\n\nMipangilio ya Viwango vya Sensorer\nUnaweza kubadilisha unyeti wa ugunduzi kutoka ukurasa wa Mipangilio.\n• Kiwango cha Moshi: Huweka kiwango cha moshi kinachohitajika ili kuwasha arifa.\n• Kiwango cha Joto: Huweka kiwango cha juu cha joto salama.\n• Ugunduzi wa Mwali: Wezesha au lemaza ufuatiliaji wa mwali wa moto.\n• Muda wa Kengele: Weka muda ambao kengele itapiga.\n• Mipangilio ya Arifa: Wezesha au lemaza arifa za kushinikiza na arifa za SMS.\n\nHistoria ya Arifa\nFungua ukurasa wa Historia ili kuona arifa zote za moto zilizopita, ikijumuisha:\n• Tarehe na saa\n• Thamani za sensorer\n• Aina ya arifa\n• Hali ya arifa\n\nWasifu\nKutoka ukurasa wa Wasifu unaweza:\n• Sasisha habari zako binafsi.\n• Badilisha nywila yako.\n• Dhibiti mapendeleo ya arifa.\n• Ondoka kwa usalama.\n\nVidokezo vya Usalama\n• Weka kifaa cha kugundua moto kikiwa kimewashwa wakati wote.\n• Hakikisha muunganisho wa intaneti thabiti kwa ufuatiliaji wa wakati halisi.\n• Usifunike au kuzuia sensorer za moshi au mwali wa moto.\n• Jaribu mfumo mara kwa mara ili kuhakikisha utendaji mzuri.\n• Itikia mara moja kila arifa ya moto inapopokelewa.\n\nUtatuzi wa Matatizo\nData ya sensorer haionekani:\n1. Angalia muunganisho wa intaneti.\n2. Thibitisha kuwa kifaa kimewashwa.\n3. Thibitisha kuwa Firebase imeunganishwa.\n\nArifa haipokelewi:\n1. Wezesha ruhusa ya arifa katika mipangilio ya simu yako.\n2. Hakikisha ufikiaji wa intaneti unapatikana.\n3. Thibitisha mipangilio ya arifa ndani ya programu.\n\nArifa za moto za uongo:\n1. Angalia ikiwa sensor imewekwa karibu na moshi wa kupikia au kemikali.\n2. Rekebisha unyeti wa moshi ikiwa ni lazima.\n\nWasiliana na Msaada\nIkiwa unapata matatizo yoyote au unahitaji msaada, tafadhali wasiliana na msimamizi wa mfumo.\nBarua pepe: ericksaimon97@gmail.com\nSimu: +255 7442024\n\nAsante kwa kutumia Mfumo wa Ugunduzi wa Moto. Usalama wako ni kipaumbele chetu.</string>
+</resources>

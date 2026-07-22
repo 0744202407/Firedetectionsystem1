@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Firedetectionstystem1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/fire_red_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/fire_amber</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/app_background</item>
+        <item name="android:windowBackground">@color/app_background</item>
+    </style>
+
+    <style name="Theme.Firedetectionstystem1" parent="Base.Theme.Firedetectionstystem1" />
+
+    <style name="CircleImage">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

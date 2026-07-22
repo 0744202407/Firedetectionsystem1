@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Fire Detection System App</string>
+    <string name="fire_detection_system">🔥 FIRE DETECTION SYSTEM</string>
+    <string name="welcome_fire_detection">Welcome to Fire Detection System</string>
+    <string name="stay_safe_secure">Stay Safe Secure</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password_q">Forgot Password?</string>
+    <string name="register_now">Register Now</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="monitoring_fire_risk">Monitoring fire risk in real-time</string>
+    <string name="register_account">Register Account</string>
+    <string name="enter_username_email">Enter Username/Email</string>
+    <string name="register">REGISTER</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="registered_email">Registered Email</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="fire_alert_dashboard">🔥 FIRE ALERT DASHBOARD</string>
+    <string name="no_fire_detected">✅ No Fire Detected</string>
+    <string name="fire_detected_sms">🔥 Fire Detected! SMS Sent</string>
+    <string name="result_monitoring">Result: Monitoring sensors...</string>
+    <string name="result_high_risk">Result: High risk detected at %1$s</string>
+    <string name="result_area_safe">Result: Area is safe (updated %1$s)</string>
+    <string name="real_time_alerts">Real-Time Alerts</string>
+    <string name="smoke_detection">Smoke Detection</string>
+    <string name="emergency_call">Emergency Call</string>
+    <string name="activate_pump">Activate Pump</string>
+    <string name="reports">Reports</string>
+    <string name="view_reports">View Reports</string>
+    <string name="download_pdf">Download PDF</string>
+    <string name="view_history">View History</string>
+    <string name="close">CLOSE</string>
+    <string name="report_ready">Report saved to Downloads folder</string>
+    <string name="report_error">Failed to generate report</string>
+    <string name="loading_reports">Loading reports...</string>
+    <string name="no_incidents">No fire incidents recorded.</string>
+    <string name="location_label">Location</string>
+    <string name="time_label">Time</string>
+    <string name="select_option_report">Select an option above to load report data.</string>
+    <string name="ok">OK</string>
+    <string name="fire_detected_caps">FIRE DETECTED</string>
+    <string name="no_fire_detected_caps">NO FIRE DETECTED</string>
+    <string name="alert_status">Status: %1$s</string>
+    <string name="alert_last_update">Last update: %1$s</string>
+    <string name="alert_smoke_level">Smoke level: %1$d%%</string>
+    <string name="severity_high">HIGH</string>
+    <string name="severity_medium">MEDIUM</string>
+    <string name="severity_low">LOW</string>
+    <string name="alert_severity">Severity: %1$s</string>
+    <string name="investigate_immediately">Investigate immediately.</string>
+    <string name="monitoring_normal">Monitoring normal.</string>
+    <string name="no_phone_app">No phone app found on this device.</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_credentials">Invalid credentials. Please register if new user.</string>
+    <string name="login_hint_other_device">Login failed on this device. If you registered on another phone, turn on internet and use the same email/password.</string>
+    <string name="offline_access_granted">Network unavailable. Offline access granted on this device.</string>
+    <string name="show_password">Show password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="session_expired">Session expired. Please login again.</string>
+    <string name="logout">Logout</string>
+    <string name="visibility_off">Visibility off</string>
+    <string name="visibility_on">Visibility on</string>
+    <string name="open_menu">Open menu</string>
+    <string name="settings">Settings</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="help_steps_title">How to help users in this system</string>
+    <string name="help_step_1">Check dashboard status and smoke level to understand risk.</string>
+    <string name="help_step_2">Use Real-Time Alerts to confirm latest fire updates.</string>
+    <string name="help_step_3">Use Emergency Call immediately when status shows fire risk.</string>
+    <string name="help_step_4">Guide users to keep internet on for timely sensor updates.</string>
+    <string name="support_title">Support</string>
+    <string name="support_desc">For user support, record the issue, screenshot the alert, and contact the system admin or safety team with time and device details.</string>
+    <string name="lang_english">English</string>
+    <string name="lang_swahili">Swahili</string>
+    <string name="email_already_registered">This email is already registered. Please login.</string>
+    <string name="registered_successfully">Registered Successfully: %1$s</string>
+    <string name="password_rules">Use uppercase, number and symbol</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="email_not_found">Email not found. Please register first.</string>
+    <string name="password_reset_success">Password reset successful</string>
+    <string name="password_reset_email_sent">Password reset link sent to your email.</string>
+    <string name="firebase_save_failed">Account created but failed to save profile data.</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="too_many_attempts">Too many failed attempts. Please wait 3 minutes.</string>
+    <string name="lockout_active">App is locked. Try again in %1$d seconds.</string>
+    <string name="registration_failed">Registration failed: %1$s</string>
+    <string name="password_updated">Password updated successfully.</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="voice_command">Voice Command</string>
+    <string name="listening">Listening...</string>
+    <string name="voice_error">Speech recognition not supported or error occurred.</string>
+    <string name="command_not_recognized">Command not recognized. Try "Reports", "Smoke", "Zoom In", etc.</string>
+    <string name="login_voice_hint">Try saying "Login", "Register", or "Email [your email]"</string>
+
+    <string-array name="language_names">
+        <item>English</item>
+        <item>Swahili</item>
+    </string-array>
+
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>sw</item>
+    </string-array>
+
+    <string name="help_support_full_text">Welcome to Fire Detection System\n\nWelcome to the Fire Detection System application. This app helps you monitor smoke, flame, and temperature levels in real time and provides instant alerts whenever a fire risk is detected.\n\nGetting Started\n• Log in using your registered account.\n• Ensure your device is connected to the internet.\n• Verify that the fire detection device is powered on and connected to Firebase.\n• After a successful connection, the dashboard will display live sensor data.\n\nDashboard\nThe dashboard displays:\n• Current smoke level\n• Temperature reading\n• Flame detection status\n• System status (Safe or Fire Detected)\n• Last update time\n\nA green status indicates the environment is safe, while a red status means a fire has been detected.\n\nReal-Time Monitoring\nThe application continuously receives data from the fire detection device. Sensor readings are updated automatically without requiring manual refresh.\n\nNotifications\nWhen smoke, flame, or temperature exceeds the configured threshold:\n• An alarm is triggered.\n• A push notification is sent to your mobile device.\n• An SMS alert is sent if SMS notifications are enabled.\n• The dashboard status changes to Fire Detected.\n\nSensor Threshold Settings\nYou can customize detection sensitivity from the Settings page.\n• Smoke Threshold: Sets the smoke level required to trigger an alert.\n• Temperature Threshold: Sets the maximum safe temperature.\n• Flame Detection: Enable or disable flame monitoring.\n• Alarm Duration: Set how long the alarm will sound.\n• Notification Settings: Enable or disable push notifications and SMS alerts.\n\nAlert History\nOpen the History page to view all previous fire alerts, including:\n• Date and time\n• Sensor values\n• Alert type\n• Alert status\n\nProfile\nFrom the Profile page you can:\n• Update your personal information.\n• Change your password.\n• Manage notification preferences.\n• Log out securely.\n\nSafety Tips\n• Keep the fire detection device powered on at all times.\n• Ensure a stable internet connection for real-time monitoring.\n• Do not cover or block the smoke or flame sensors.\n• Test the system regularly to ensure proper operation.\n• Respond immediately whenever a fire alert is received.\n\nTroubleshooting\nNo sensor data displayed:\n1. Check the internet connection.\n2. Verify the device is powered on.\n3. Confirm Firebase is connected.\n\nNo notification received:\n1. Enable notification permission in your phone settings.\n2. Ensure internet access is available.\n3. Verify notification settings inside the app.\n\nFalse fire alerts:\n1. Check if the sensor is installed near cooking smoke or chemicals.\n2. Adjust the smoke sensitivity threshold if necessary.\n\nContact Support\nIf you experience any problems or need assistance, please contact the system administrator.\nEmail: ericksaimon97@gmail.com\nPhone: +255 7442024\n\nThank you for using Fire Detection System. Your safety is our priority.</string>
+</resources>

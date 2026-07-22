@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Professional Fire Theme Colors -->
+    <color name="fire_red_primary">#CC1111</color>
+    <color name="fire_red_dark">#8B0000</color>
+    <color name="fire_amber">#FFB74D</color>
+    <color name="fire_amber_light">#FFCC80</color>
+    <color name="app_background">#140909</color>
+    <color name="input_background">#221212</color>
+    <color name="text_grey">#CCCCCC</color>
+    <color name="text_hint">#888888</color>
+</resources>
